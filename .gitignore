@@ -1,0 +1,7 @@
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore Q-table file
+q_table.pkl
